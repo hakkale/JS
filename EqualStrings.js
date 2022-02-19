@@ -1,4 +1,4 @@
-function sameStings(firstStr, secondStr) {
+function sameStrings(firstStr, secondStr) {
     let first = firstStr.split('');
     let second = secondStr.split('');
     first.sort();
